@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "updated_at": "2026-09-18T00:00:00Z",
   "games": [
     {
@@ -12,10 +12,10 @@
       "apk_download_url": "",
       "apk_sha256": "508d1858b7f3f43624082bcb265d9dd120dd2c0b3e1d6e0d26cfde7f0b1f9272",
       "mod_info": {
-        "version": "2.8.8a",
+        "version": "2.8.8b",
         "library_name": "libmod.so",
-        "download_url": "https://github.com/NguUyeenx/parahub-mods/releases/download/v2.8.8a/libmod.so",
-        "sha256": "b42d63cf643bea3f86fcdea2c62637c4a28d040c6e0cad90a8ca24439ab7beae",
+        "download_url": "https://github.com/NguUyeenx/parahub-mods/releases/download/v2.8.8b/libmod.so",
+        "sha256": "a7591bc84fd49602e94b6f6e564d93dab5c156577823aaf201bb8400b8f772e7",
         "panel_class": "io.randomco.travel.mod.FloatingModPanel"
       }
     },
