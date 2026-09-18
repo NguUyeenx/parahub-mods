@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18T00:00:00Z",
+  "games": [
+    {
+      "id": "travel-town",
+      "package_name": "io.randomco.travel",
+      "display_name": "Travel Town",
+      "icon_url": "",
+      "engine_type": "unity_il2cpp",
+      "game_version": "2.12.1751",
+      "apk_download_url": "",
+      "apk_sha256": "508d1858b7f3f43624082bcb265d9dd120dd2c0b3e1d6e0d26cfde7f0b1f9272",
+      "mod_info": {
+        "version": "2.8.8a",
+        "library_name": "libmod.so",
+        "download_url": "https://github.com/NguUyeenx/parahub-mods/releases/download/v2.8.8a/libmod.so",
+        "sha256": "b42d63cf643bea3f86fcdea2c62637c4a28d040c6e0cad90a8ca24439ab7beae",
+        "panel_class": "io.randomco.travel.mod.FloatingModPanel"
+      }
+    },
+    {
+      "id": "seaside-escape",
+      "package_name": "com.gamedots.seasideescape",
+      "display_name": "Seaside Escape",
+      "icon_url": "",
+      "engine_type": "unity_il2cpp",
+      "game_version": "2.5.0",
+      "apk_download_url": "",
+      "apk_sha256": "",
+      "mod_info": {
+        "version": "1.0.0",
+        "library_name": "libmod_seaside.so",
+        "download_url": "",
+        "sha256": "934c4b7ff7616a4ce47c94cfc7b5fb49bbc5ae464543fdb02ebc8604057bdd83",
+        "panel_class": ""
+      }
+    }
+  ]
+}
